@@ -1,14 +1,11 @@
 {
-  "name": "react-typescript",
+  "name": "sampleapp",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@chakra-ui/icons": "1.0.8",
     "@chakra-ui/react": "1.4.2",
     "@emotion/react": "11.1.5",
     "@emotion/styled": "11.1.5",
